@@ -1,0 +1,6 @@
+{
+  "name": "Loja Gamer - Videogames, Consoles e Acessórios",
+  "description": "Loja online moderna de videogames, consoles, jogos e acessórios gamer. O próximo nível da sua diversão começa aqui.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
